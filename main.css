@@ -3,6 +3,15 @@
   color: white;
 }
  body{
-   background: #521416;
+   background: #ff1416;
    font-style: italic;
  }
+
+.contact{
+  border-radius: 10px;
+}
+
+header{
+  background-color: white;
+  color: green;
+}
